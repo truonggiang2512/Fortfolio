@@ -1,17 +1,13 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
+  name: "Hà Nguyễn Trường Giang",
+  profile: '/profile.jpg',
   designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  description: "I am a Front-End Web Developer with 6 months of experience in JavaScript and ReactJS technologies. I'm passionate about learning new languages and technologies, which drives me to continually expand my skill set. Known as a team player, I enjoy assisting others and thrive in collaborative environments. Looking ahead, I aim to transition into a full-stack developer role. Leveraging my frontend experience, I aspire to enhance my backend development skills and create comprehensive solutions that span the entire stack.",
+  email: 'hntgiangwork@gmail.com',
+  phone: '+840889084014',
+  address: 'Hồ Chí Minh City',
+  github: 'https://github.com/truonggiang2512',
+  facebook: 'https://www.facebook.com/truonggiang.hanguyen.5',
+  linkedIn: 'https://www.linkedin.com/in/gianghnt/',
+  resume: "https://drive.google.com/file/d/1CdfufL1txiOw9XNX91mff0v3qoPhLzn2/view?usp=sharing"
 }
