@@ -49,17 +49,9 @@ function ContactWithoutCaptcha() {
         publicKey
       );
 
-      console.log("EmailJS Response: ", res);
-
       // Sending message to your own API for Telegram or another service
-      const teleRes = await axios.post(
-        `${process.env.NEXT_PUBLIC_APP_URL}/api/contact`,
-        userInput
-      );
 
-      console.log("API Response: ", teleRes);
-
-      if (res.status === 200 && teleRes.status === 200) {
+      if (res.status === 200) {
         toast.success("Message sent successfully!");
         setUserInput({
           name: "",
