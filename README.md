@@ -128,7 +128,7 @@ export const personalData = {
   facebook: "https://www.facebook.com/truonggiang.hanguyen.5",
   linkedIn: "https://www.linkedin.com/in/gianghnt/",
   resume:
-    "https://drive.google.com/file/d/1vt9jSsKJc7sBP2KxUR-1SUuJQ_im0NPx/view?usp=sharing",
+    "https://drive.google.com/file/d/1bP8oXCkY_1qkWm6CTjWvkMd3YtMZqEeP/view?usp=sharing",
 };
 ```
 
